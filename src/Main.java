@@ -1,6 +1,6 @@
 // TODO: we need to add the missing classes!
 
-// OK, I will add `Adder` and Cem will add `Subtractor`.
+// OK, I will add `Substractor` and Cem will add `Adder`.
 
 
 public class Main {
